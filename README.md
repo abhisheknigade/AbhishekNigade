@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently doing **C-DAC**
 
-- 👯I’m currently Learning **Java/Springboot**
+- 👯 I’m currently Learning **Java/Springboot**
 
 - 🤝 I’m looking for new role **Software Enginner**
 
