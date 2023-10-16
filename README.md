@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Nigade</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently doing **C-DAC**
+- 🔭 I’m currently doing **C-DAC (Centre For Devlopment Of Advance Computing)**
 
 - 👯 I’m currently Learning **Java/Springboot**
 
