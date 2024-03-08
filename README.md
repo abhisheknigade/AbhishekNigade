@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently doing **C-DAC (Centre For Devlopment Of Advance Computing)**
 
-- 👯 I’m currently Learning **REACTjS/Springboot**
+- 👯 I’m currently Learning **REACT jS/SpringBoot/Blockchain/Solidity**
 
 - 🤝 I’m looking for new role **Software Enginner**
 
-- 💬 Ask me about **C/C++/HTML/JAVA/SQL**
+- 💬 Ask me about **C/C++/HTML/JAVA/SQL/JavaScript**
 
 - ⚡ Fun fact **I Think I am a Funny**
 
