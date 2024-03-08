@@ -3,11 +3,11 @@
 
 - 🔭 I Have Done **C-DAC**
 
-- 👯I’m currently Learning **Java/Springboot**
+- 👯I’m currently Learning **Springboot/React js/Blockchain**
 
 - 🤝 I’m looking for new role **Software Enginner**
 
-- 💬 Ask me about **C/C++/HTML/SQL/**
+- 💬 Ask me about **C/C++/HTML/SQL/Java/Javascript**
 
 - 📫 How to reach me **abhisheknigade2230@gmail.com**
 
