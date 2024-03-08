@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Nigade</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">A passionate Programmer.</h3>
 
 - 🔭 I Have Done **C-DAC**
 
