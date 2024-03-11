@@ -5,7 +5,7 @@
 
 - 👯I’m currently Learning **Springboot/React js/Blockchain**
 
-- 🤝 I’m looking for new role **Software Enginner**
+- 🤝 I’m looking for a role **Software Enginner**
 
 - 💬 Ask me about **C/C++/HTML/SQL/Java/Javascript**
 
