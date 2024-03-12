@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhishek Nigade</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Nigade.</h1>
 <h3 align="center">A passionate Programmer.</h3>
 
 - 🔭 I Have Done **C-DAC**
 
 - 👯I’m currently Learning **Springboot/React js/Blockchain**
-
-- 🤝 I’m looking for a role **Software Enginner**
 
 - 💬 Ask me about **C/C++/HTML/SQL/Java/Javascript**
 
