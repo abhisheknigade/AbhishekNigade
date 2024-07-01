@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Nigade.</h1>
 <h3 align="center">A passionate Programmer.</h3>
 
-- 🔭 I Have Done **C-DAC**
+- 🔭 I Completed Post Graduate Diploma in Advanced Computing from C-DAC.
+- 
+- 👯Currently expanding expertise in Spring Boot, React.js, and Blockchain.
 
-- 👯I’m currently Learning **Springboot/React js/Blockchain**
+- 💬 Ask me about  C, C++, HTML, SQL, Java, and JavaScript.
 
-- 💬 Ask me about **C/C++/HTML/SQL/Java/Javascript**
+- 📫 Reach out via email at abhisheknigade2230@gmail.com
 
-- 📫 How to reach me **abhisheknigade2230@gmail.com**
-
-- ⚡ Fun fact **I Think I am a Funny!**
-
+- ⚡ Fun fact Known for a good sense of humor and a positive attitude
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-nigade-6032ba177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-nigade-6032ba177" height="30" width="40" /></a>
