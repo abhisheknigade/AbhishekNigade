@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer.</h3>
 
 - 🔭 I Completed Post Graduate Diploma in Advanced Computing from C-DAC.
-- 
+  
 - 👯Currently expanding expertise in Spring Boot, React.js, and Blockchain.
 
 - 💬 Ask me about  C, C++, HTML, SQL, Java, and JavaScript.
