@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Nigade.</h1>
 <h3 align="center">A passionate Programmer.</h3>
 
-- 🔭 I Completed Post Graduate Diploma in Advanced Computing from C-DAC.
+- 🔭 I Have Completed Post Graduate Diploma in Advanced Computing from C-DAC.
   
 - 👯Currently expanding expertise in Spring Boot, React.js, and Blockchain.
 
