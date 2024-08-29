@@ -5,7 +5,7 @@
   
 - 👯Currently expanding expertise in Spring Boot, React.js, and Blockchain.
 
-- 💬 Ask me about  C, C++, HTML, SQL, Java, and JavaScript.
+- 💬 Ask me about  C++, HTML, SQL, Java, and JavaScript.
 
 - 📫 Reach out via email at abhisheknigade2230@gmail.com
 
