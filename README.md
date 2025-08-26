@@ -64,6 +64,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheknigade&show_icons=true&theme=tokyonight" alt="abhisheknigade stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknigade&theme=tokyonight" alt="abhisheknigade streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheknigade&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhisheknigade&theme=highcontrast&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true" height="180px" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknigade&theme=gruvbox&layout=compact&hide_border=false" height="180px" alt="Top Languages" />
+</p>
+
